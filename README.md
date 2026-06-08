@@ -7,12 +7,11 @@
 
 ## Skills I'm Building
 - Git and GitHub
-- [javascript "]
+- [javascript ]
 
-## Current Projects
-- ](link) — short description
+
 
 ## How to Reach Me
 - Email: [ mwangihilda186@gmail.com]
-- LinkedIn: [your LinkedIn profile link]
+  
 
