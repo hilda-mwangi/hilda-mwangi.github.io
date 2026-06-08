@@ -1,17 +1,17 @@
-# Hi, I'm [hilda mwangi]
+# Hi, I'm hilda mwangi
 
 ## About Me
-- I'm currently learning [programing at IYF ].
-- I'm interested in [understanding javascript and programming in general].
-- I'm looking to collaborate on [beginner-friendly open source project].
+- I'm currently learning programing at IYF 
+- I'm interested in understanding javascript and programming in general
+- I'm looking to collaborate on beginner-friendly open source project
 
 ## Skills I'm Building
 - Git and GitHub
-- [javascript ]
+- javascript 
 
 
 
 ## How to Reach Me
-- Email: [ mwangihilda186@gmail.com]
+- Email:  mwangihilda186@gmail.com
   
 
