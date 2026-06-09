@@ -7,7 +7,14 @@
 
 ## Skills I'm Building
 - Git and GitHub
-- javascript 
+- javascript
+- python
+- HTML
+- web development fundamentals
+
+  ## interest
+  web development
+  software development
 
 
 
